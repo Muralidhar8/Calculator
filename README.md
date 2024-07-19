@@ -1,2 +1,2 @@
-# CODSOFT
-CodSoft Internship Projects
+# CALCULATOR
+using HTML CSS and JAVASCRIPT
